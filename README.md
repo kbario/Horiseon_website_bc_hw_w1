@@ -1,6 +1,6 @@
 # Horiseon_website_bc_hw_w1
 
-## Horiseon Digital Management
+## Horiseon Social Solutions
 This webpage is the home page for the digital marketing and management company Horiseon. 
 
 ### Our Services
