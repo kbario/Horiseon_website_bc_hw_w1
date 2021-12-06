@@ -14,6 +14,6 @@ The webpage conforms to the accessibility requirements that both improves the SE
 
 Below is a preview of the webpage and a link to it for your use.
 
-![A screenshot of the websites homepage](./website_screenshot.png)
+![A screenshot of the websites homepage](./assets/images/screenshot.png)
 
 https://kbario.github.io/Horiseon_website_bc_hw_w1/
